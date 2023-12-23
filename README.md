@@ -1,6 +1,5 @@
-![logo](![Black   White Minimalist Aesthetic Initials Font Logo](https://github.com/laibashahi/laibashahi/assets/145891746/796ed4f8-be65-47ec-990e-b9e556cc4e1c)
-)
-)<h1 align="center">Hi 👋, I'm Laiba Shahi</h1>
+
+<h1 align="center">Hi 👋, I'm Laiba Shahi</h1>
 <h3 align="center">Web Developer from Pakistan</h3>
 <img align = "right" alt= "coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif">
 
