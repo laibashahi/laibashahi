@@ -3,7 +3,6 @@
 <h3 align="center">Web Developer from Pakistan</h3>
 <img align = "right" alt= "coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laibashahi&label=Profile%20views&color=0e75b6&style=flat" alt="laibashahi" /> </p>
 
 - 🌱 Currently learning **Programming,Web Development**
 
